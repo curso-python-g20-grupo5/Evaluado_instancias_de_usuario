@@ -63,6 +63,5 @@ python usuario.py
 - [Valery Maragaño](https://github.com/Valyxp)
 - [Marco Alvarado](https://github.com/7pixel-cl)
 - [Esteban Hernández](https://github.com/stivhc)
-- [Claudia Aguayo](https://github.com/aguayo40)
 
 ⌨️ con ❤️ por el Grupo 5 - G20 😊
