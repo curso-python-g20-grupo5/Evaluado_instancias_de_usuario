@@ -3,7 +3,7 @@ Este proyecto consiste en un script de Python que procesa un archivo de texto (`
 
 ## Estrucura del proyecto
 
-Este repositorio está compuesto por cuatro archivos: 
+Este repositorio está compuesto por tres archivos: 
   - ```usuario.py```: Contiene la definición de la clase ```Usuario``` y la función para procesar las líneas del archivo de entrada.
   - ```usuarios.txt```: Archivo de texto con los datos de los usuarios en formato JSON. Cada línea corresponde a un usuario.
   - ```error.log```: Archivo de log donde se registran los errores que ocurren al procesar las líneas con datos incorrectos.
